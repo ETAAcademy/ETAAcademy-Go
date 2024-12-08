@@ -21,7 +21,7 @@
 
 [Github](https:github.com/ETAAcademy)｜[Twitter](https:twitter.com/ETAAcademy)｜[ETA-Go](https://github.com/ETAAcademy/ETAAcademy-Go)
 
-Authors: [Eta](https:twitter.com/pwhattie), looking forward to your joining
+Authors: [Evta](https:twitter.com/pwhattie), looking forward to your joining
 
 # Building Web Applications in Go
 
